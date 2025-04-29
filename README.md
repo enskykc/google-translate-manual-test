@@ -27,7 +27,4 @@ This repository contains a simple manual testing project for the **Google Transl
 - Voice translation was tested on a real device, as emulators don't support microphone input.
 - ChatGPT was used as a mentor for structuring the test documentation — all tests were executed manually.
 
----
-
-🧠 This project serves as a learning milestone and part of a growing QA portfolio.
 
